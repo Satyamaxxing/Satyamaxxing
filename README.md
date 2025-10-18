@@ -13,26 +13,7 @@
 
 ## 🚀 About Me
 
-```javascript
-const satyam = {
-    code: ["JavaScript", "Python", "Java", "HTML", "CSS"],
-    askMeAbout: ["Web Development", "Tech", "Open Source"],
-    technologies: {
-        frontEnd: {
-            js: ["Vanilla JS", "React", "Vue"],
-            css: ["Bootstrap", "Tailwind", "Material Design"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            python: ["Django", "Flask"]
-        },
-        databases: ["MongoDB", "MySQL", "PostgreSQL"],
-        misc: ["Firebase", "Socket.IO", "REST APIs"]
-    },
-    currentFocus: "Building scalable web applications",
-    funFact: "The syntax of today, the system of tomorrow."
-};
-```
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
