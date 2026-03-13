@@ -13,17 +13,27 @@
 
 ## 🚀 About Me
 
-
-
 <div align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Rocket GIF"/>
 </div>
+
+<br/>
+
+> 🧠 *"I don't just write code — I engineer experiences."*
+
+Hey! I'm **Satyam Kumar**, a **2nd year BE-CSE student** based in **Bangalore, India** 🇮🇳 — where chai meets code and deadlines are just suggestions.
+
+- 💻 I build **cool, futuristic web apps** and tinker with **AI** like it's my superpower
+- 🤝 Currently **working with clients** on open-source and freelance projects
+- 🎤 Beyond the screen — I'm a **confident public speaker & MC**, equally at home on a stage as I am in a terminal
+- 🔥 Driven by curiosity, caffeine, and the belief that **great software changes lives**
+- 📍 Bangalore-based | Globally minded
 
 ---
 
 ## 🌟 Professional Portfolio
 
-🌐 **Visit my website**: [satyamaxxing.in](https://satyamaxxing.in)
+🌐 **Visit my website**: [satyamaxxing.vercel.app](https://satyamaxxing.vercel.app)
 
 My portfolio features:
 - 🎨 **Dark/Light Theme Toggle** with smooth animations
@@ -78,7 +88,7 @@ My portfolio features:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Satyamaxxing&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=Satyamaxxing&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -107,16 +117,15 @@ My portfolio features:
 
 [![Email](https://img.shields.io/badge/-satyamggacc@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyamggacc@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-Satyam%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-kumar-58906a327/)
-[![Twitter](https://img.shields.io/badge/-@Satyamaxxing-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Satyamaxxing)
+[![X](https://img.shields.io/badge/-@Satyamaxxing-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Satyamaxxing)
 [![Instagram](https://img.shields.io/badge/-@satyamaxxing-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/satyamaxxing/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://satyamaxxing.in)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-6E40C9?style=for-the-badge&logo=About.me&logoColor=white)](https://satyamaxxing.vercel.app)
 
 </div>
 
 ---
 
 ## 💻 Development Environment
-
 ```yaml
 OS: Windows 11
 Editor: VS Code with extensions
@@ -140,16 +149,6 @@ Version Control: Git & GitHub
   <br>
   <sub>💼 Open to opportunities | 🚀 Let's build something amazing together!</sub>
 </div>
-
----
-
-### 🎯 2024 Goals
-- [ ] Contribute to more open source projects
-- [ ] Master advanced JavaScript frameworks
-- [ ] Build and deploy 5 full-stack applications
-- [ ] Grow GitHub following to 100+ followers
-- [ ] Write technical blog posts
-- [ ] Speak at a tech conference or meetup
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
