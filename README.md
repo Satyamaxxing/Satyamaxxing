@@ -104,11 +104,11 @@ My portfolio features:
 
 ## 🌱 Current Focus
 
-- 🔭 Working on **portfolio enhancements** and **open source projects**
-- 🌱 Learning **advanced JavaScript frameworks** and **cloud technologies**
-- 👯 Looking to collaborate on **innovative web applications**
-- 💬 Ask me about **web development**, **UI/UX design**, or **tech trends**
-- ⚡ Fun fact: I believe in the philosophy *"The syntax of today, the system of tomorrow"*
+- 🔭 Working on **KaryaLaya 2.0** and building production-ready **full-stack applications**
+- 🌱 Exploring **AI/ML, entity resolution, and intelligent data-driven systems**
+- 👯 Looking to collaborate on **innovative software, SaaS, and open source projects**
+- 💬 Ask me about **full-stack development, system design, AI/ML, or DSA**
+- ⚡ Fun fact: I believe in **building instead of just planning — learn, build, break, improve, repeat**
 
 ---
 
