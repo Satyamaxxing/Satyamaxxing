@@ -133,13 +133,13 @@ My portfolio features:
 ```text
 OS:          Windows 11
 Editor:      VS Code
-Terminal:    PowerShell / Warp
+Terminal:    PowerShell
 Languages:   JavaScript, TypeScript, Java, Python, C/C++
 Frontend:    React.js, Next.js, Tailwind CSS
 Backend:     Node.js, Express.js, REST APIs
 Database:    PostgreSQL, Supabase
 DevOps:      Docker, Docker Compose, Vercel, Render
-Design:      Figma
+Design:      Figma, Framer, Readymag
 Versioning:  Git & GitHub
 ```
 
