@@ -36,12 +36,13 @@ Hey! I'm **Satyam Kumar**, a 3rd year BE-CSE student** based in **Bangalore, Ind
 🌐 **Visit my website**: [satyamaxxing.in](https://satyamaxxing.in)
 
 My portfolio features:
-- 🎨 **Dark/Light Theme Toggle** with smooth animations
-- 👁️ **Visitor Counter** with real-time tracking
-- 📱 **Fully Responsive** design for all devices
-- ✨ **Animated Background** with gradient effects
-- 🎯 **Interactive Elements** with professional hover effects
-- ⚡ **Performance Optimized** with fast loading times
+
+- 🎯 **Selected Projects** — KaryaLaya, AlgoCraft, and Distributed Core
+- 💻 **Full-Stack & AI Work** — Real-world software projects and technical builds
+- 🎤 **Speaking & Emceeing** — Stage hosting, public speaking, and live events
+- 🧠 **Building & Learning** — DSA, system design, and continuous technical development
+- 🚀 **Interactive Portfolio** — Motion-driven sections with a distinctive visual experience
+- 📬 **Contact & Socials** — Direct access for collaborations and professional connections
 
 ---
 
