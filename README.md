@@ -126,14 +126,21 @@ My portfolio features:
 
 ---
 
+---
+
 ## 💻 Development Environment
-```yaml
-OS: Windows 11
-Editor: VS Code with extensions
-Terminal: PowerShell / Warp
-Browser: Chrome DevTools
-Design: Figma, Adobe XD
-Version Control: Git & GitHub
+
+```text
+OS:          Windows 11
+Editor:      VS Code
+Terminal:    PowerShell / Warp
+Languages:   JavaScript, TypeScript, Java, Python, C/C++
+Frontend:    React.js, Next.js, Tailwind CSS
+Backend:     Node.js, Express.js, REST APIs
+Database:    PostgreSQL, Supabase
+DevOps:      Docker, Docker Compose, Vercel, Render
+Design:      Figma
+Versioning:  Git & GitHub
 ```
 
 ---
