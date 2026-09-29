@@ -33,7 +33,7 @@ Hey! I'm **Satyam Kumar**, a 3rd year BE-CSE student** based in **Bangalore, Ind
 
 ## 🌟 Professional Portfolio
 
-🌐 **Visit my website**: [satyamaxxing.vercel.app](https://satyamaxxing.vercel.app)
+🌐 **Visit my website**: [satyamaxxing.in](https://satyamaxxing.in)
 
 My portfolio features:
 - 🎨 **Dark/Light Theme Toggle** with smooth animations
