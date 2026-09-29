@@ -21,7 +21,7 @@
 
 > 🧠 *"I don't just write code — I engineer experiences."*
 
-Hey! I'm **Satyam Kumar**, a **2nd year BE-CSE student** based in **Bangalore, India** 🇮🇳
+Hey! I'm **Satyam Kumar**, a 3rd year BE-CSE student** based in **Bangalore, India** 🇮🇳
 
 - 💻 I build **cool, futuristic web apps** and tinker with **AI** like it's my superpower
 - 🤝 Currently **working with clients** on open-source and freelance projects
